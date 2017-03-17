@@ -1,3 +1,8 @@
+# IMPORTANT
+
+This project is being refactored into a plugin with support for Swagger and has moved to
+https://github.com/xtech-guru/hapi-ms-swagger. This version is no longer maintained.
+
 # Hapi MS
 
 Boilerplate for a Hapi based micro service.
